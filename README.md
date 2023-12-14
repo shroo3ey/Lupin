@@ -1,3 +1,7 @@
+# For Support Join my Discord Server
+![Discord Banner 1](https://discordapp.com/api/guilds/1184879731900940308/widget.png?style=banner1)
+
+
 # Lupin Documentation
 
 <img src="_documentation/intro.gif" alt="drawing" width="500"/>
@@ -179,7 +183,6 @@ This value specifies how the **pattern** is going to be used in your search
 
 ### 6. 💻 Starting Lupin for the first time
 
-##### 6.1 Choose a Working Mode
 Once the authentication is successful you are able to **choose the wroking mode** you want Lupin to run in: <br>
 
 **Telegram Mode:** <br>
@@ -205,3 +208,17 @@ After entering your phone number correctly you are required to **provide a verif
 <br>
 
 ---
+
+<br> <br>
+
+## 📝 Todo 📝
+
+- wallet scraping
+- timestamp forging
+- discord token scraping
+- filter search entries by geo location
+- support password protected .zip files
+- support .7z files
+- support password protected .7z files
+- verify Telegram api tokens before start
+- support multiple stealer formats (currently only RedLine Stealer) 
