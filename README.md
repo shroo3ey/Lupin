@@ -1,6 +1,5 @@
 # For Support Join my Discord Server
-[![Discord Banner 1](https://discordapp.com/api/guilds/1184879731900940308/widget.png?style=banner1)](https://discord.gg/a5X7bv3HF4){:target="_blank"}
-
+[![Discord Banner 1](https://discordapp.com/api/guilds/1184879731900940308/widget.png?style=banner1)](https://discord.gg/a5X7bv3HF4)
 
 # Lupin Documentation
 
