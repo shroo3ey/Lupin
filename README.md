@@ -1,3 +1,6 @@
+![Discord Banner 1](https://discordapp.com/api/guilds/a5X7bv3HF4/widget.png?style=banner1)
+
+
 # Lupin Documentation
 
 <img src="_documentation/intro.gif" alt="drawing" width="500"/>
