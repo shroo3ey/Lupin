@@ -42,11 +42,15 @@ Customize your search parameters for a truly tailored data analysis experience.
 This section will guide you through the installation process to get your software up and running smoothly.
 
 ### 1. 💾 Downlaod and Run
-- Simply clone the repository
+
+- **run Server.exe** inside ```/dist``` folder
+
+**OR**
+
 - change directory by using  ```cd ./src```
 - run ```py ./Server.py```
 
-**Note:** If you want to compile Lupin into an executable you can use pyinstaller with the following command: <br>
+**Note:** If you want to compile Lupin into an executable yourself, you can use pyinstaller with the following command: <br>
 ```pyinstaller src/Server.py --noconfirm --onefile --icon=lupin_icon.ico --hidden-import "patoolib.programs.rar"```
 
 <br>
