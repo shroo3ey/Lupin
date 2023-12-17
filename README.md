@@ -47,6 +47,7 @@ This section will guide you through the installation process to get your softwar
 
 **OR**
 
+- run ```pip install -r requirements.txt``` 
 - change directory by using  ```cd ./src```
 - run ```py ./Server.py```
 
