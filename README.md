@@ -1,6 +1,5 @@
 # For Support Join my Discord Server
-![Discord Banner 1](https://discordapp.com/api/guilds/1184879731900940308/widget.png?style=banner1)
-
+[![Discord Banner 1](https://discordapp.com/api/guilds/1184879731900940308/widget.png?style=banner1)](https://discord.gg/a5X7bv3HF4)
 
 # Lupin Documentation
 
@@ -46,6 +45,9 @@ This section will guide you through the installation process to get your softwar
 - Simply clone the repository
 - change directory by using  ```cd ./src```
 - run ```py ./Server.py```
+
+**Note:** If you want to compile Lupin into an executable you can use pyinstaller with the following command: <br>
+```pyinstaller src/Server.py --noconfirm --onefile --icon=lupin_icon.ico --hidden-import "patoolib.programs.rar"```
 
 <br>
 
